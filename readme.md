@@ -95,8 +95,8 @@ A React-powered blog with:
 ---
 
 ## 📊 GitHub Stats
-![Cleopas' GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)
+![Cleopas' GitHub stats](https://github-readme-stats.vercel.app/api?username=CleopasMMuchiri&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CleopasMMuchiri&layout=compact&theme=tokyonight)
 
 ---
 
