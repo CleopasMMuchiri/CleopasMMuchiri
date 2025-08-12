@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Cleopas Originale
+# 👋 Hi, I’m Cleopas Muchiri
 
 I’m a **third-year Software Engineering student at KYU** who thrives on building **real-world, full-stack solutions** — especially for organizations and communities I care about.  
 I learn best by doing: tackling actual projects from idea → implementation → deployment, and improving them step by step.
