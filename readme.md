@@ -21,8 +21,6 @@ I learn best by doing: tackling actual projects from idea → implementation →
 ![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
@@ -65,18 +63,18 @@ I learn best by doing: tackling actual projects from idea → implementation →
 
 ## 🌟 Pinned Projects
 
-### 🛍 [Full-Stack eCommerce Website](https://github.com/YourUsername/ecommerce-project)
-A fully responsive eCommerce platform with:
+### 🛍 [Weather App](https://weather-app-lovat-phi-93.vercel.app/)
+A fully responsive weather app platform with:
 - React frontend  
-- FastAPI/Django backend  
-- MySQL database  
-- Secure authentication and payment integration  
+- Node js Backend 
+- Local storage mock Database
+- Mock account creation
 
-![ecommerce-preview](https://via.placeholder.com/800x400.png?text=Ecommerce+Preview)
+![weather-app-preview](https://via.placeholder.com/800x400.png?text=Ecommerce+Preview)
 
 ---
 
-### 🙏 [GOA Kenya Donation Platform](https://github.com/YourUsername/goa-donation-platform)
+### 🙏 [GOA Kenya Donation Platform]([https://](https://goaweb.org/donate-now))
 A multi-payment donation system supporting:
 - Paystack, M-Pesa Daraja, PayPal, Givebutter  
 - Recurring/one-time donations  
@@ -86,7 +84,7 @@ A multi-payment donation system supporting:
 
 ---
 
-### 📰 [Dynamic News & Blog Website](https://github.com/YourUsername/contentful-news-site)
+### 📰 [Dynamic News & Blog Website]([https://github.com/YourUsername/contentful-news-site](https://goaweb.org/NewsMother))
 A React-powered blog with:
 - Contentful CMS integration  
 - Rich text rendering  
@@ -103,9 +101,9 @@ A React-powered blog with:
 ---
 
 ## 📫 How to Reach Me
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YourEmailHere)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourProfile)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourUsername)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cleopasmmuchiri@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cleopas-mugane-nairobi)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CleopasMMuchiri)
 
 ---
 
