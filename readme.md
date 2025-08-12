@@ -74,7 +74,7 @@ A fully responsive weather app platform with:
 
 ---
 
-### 🙏 [GOA Kenya Donation Platform]([https://](https://goaweb.org/donate-now))
+### 🙏 [GOA Kenya Donation Platform](https://goaweb.org/donate-now)
 A multi-payment donation system supporting:
 - Paystack, M-Pesa Daraja, PayPal, Givebutter  
 - Recurring/one-time donations  
@@ -84,7 +84,7 @@ A multi-payment donation system supporting:
 
 ---
 
-### 📰 [Dynamic News & Blog Website]([https://github.com/YourUsername/contentful-news-site](https://goaweb.org/NewsMother))
+### 📰 [Dynamic News & Blog Website](https://goaweb.org/NewsMother)
 A React-powered blog with:
 - Contentful CMS integration  
 - Rich text rendering  
