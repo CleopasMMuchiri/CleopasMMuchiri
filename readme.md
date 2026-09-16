@@ -1,11 +1,12 @@
 # 👋 Hi, I’m Cleopas Muchiri
 
-I’m a **forth-year Software Engineering student at Kirinyaga University (KYU)** who thrives on building **real-world, full-stack solutions** — especially for organizations and communities I care about.  
-I learn best by doing: tackling actual projects from idea → implementation → deployment, and improving them step by step.
+Result driven **Software Engineering** student with hands-on experience building **full-stack ,production grade systems** including a live donation platform processing real **M-Pesa transactions and AI-Integrated applications**. Comfortable across React/Typescript, Node.js/FastAPI/PHP backends and PostgreSQL/MySQL data layers. Learns fastest by **building, breaking and rebuilding** and is currently deepening focus on **AI-powered developer tooling**
+
 
 ---
 
 ## 🚀 What I Do Best
+-**Languages** — JavaScript, TypeScript, Python
 - **Frontend Development** — React, HTML, CSS (especially custom styling), JavaScript.  
 - **Backend Development** — PHP, FastAPI, Django (learning curve in progress), MySQL database design.  
 - **Payment Integrations** — M-Pesa Daraja API, Paystack, PayPal, Flutterwave, Givebutter.  
