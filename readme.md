@@ -6,7 +6,7 @@ Result driven **Software Engineering** student with hands-on experience building
 ---
 
 ## 🚀 What I Do Best
--**Languages** — JavaScript, TypeScript, Python
+- **Languages** — JavaScript, TypeScript, Python
 - **Frontend Development** — React, HTML, CSS (especially custom styling), JavaScript.  
 - **Backend Development** — PHP, FastAPI, Django (learning curve in progress), MySQL database design.  
 - **Payment Integrations** — M-Pesa Daraja API, Paystack, PayPal, Flutterwave, Givebutter.  
