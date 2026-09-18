@@ -5,6 +5,7 @@ I am a **software engineering** graduate currently expanding my full-stack capab
 ---
 
 ## 🚀 What I Do Best
+
 - **🚀 My Philosophy**: I build systems that seamlessly bridge business goals       with user needs. I treat every project as if it were my own, ensuring a          flawless user experience and a beautiful user interface.
   
 - **🛠️ How I Learn**: I learn by building, breaking, and rebuilding until I        understand exactly how things work under the hood.
@@ -14,6 +15,7 @@ I am a **software engineering** graduate currently expanding my full-stack capab
 ---
 
 ## 🛠 Tech Stack & Tools
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E01D?style=for-the-badge&logo=javascript&logoColor=black)
@@ -33,6 +35,7 @@ I am a **software engineering** graduate currently expanding my full-stack capab
 ---
 
 ## 💡 Strengths
+
 - **Project-based problem solving** — I learn by solving real problems, not just theory.
 - **Structured thinking** — I avoid “vibe coding” and plan before writing code.
 - **Integration specialist** — I can make multiple systems talk to each other smoothly.
@@ -42,6 +45,7 @@ I am a **software engineering** graduate currently expanding my full-stack capab
 ---
 
 ## 🎯 Interests
+
 - **Backend mastery** — APIs, authentication, scalable architectures.
 - **AI & Automation** — Exploring AI for trading, automation, smarter systems.
 - **Impact projects** — Donations, education, community outreach.
@@ -49,6 +53,7 @@ I am a **software engineering** graduate currently expanding my full-stack capab
 ---
 
 ## 📌 Current Focus
+
 - Expanding **full-stack** capabilities in Moringa School
 - Migrating GOA [Glory Outreach Assembly](https://goaweb.org) from React.js to Next.js  
 - Diving deeper into python and **OOP** (Object Oriented Programing)
@@ -57,7 +62,7 @@ I am a **software engineering** graduate currently expanding my full-stack capab
 
 ## 🌟 Pinned Projects
 
----
+
 ### 🌍 [GOA International Website](https://goaweb.org/)
 
 **Description**: Migrated a Kenya-based ministry organization's website from a React/Vite SPA to Next.js, supporting 30+ pages including a full donation and payments flow, media sections, and multi-language content.
@@ -133,16 +138,22 @@ Description: An AI-powered system that streamlines job applications — parsing 
 
 ---
 
-
 ## 📊 GitHub Stats
-![Cleopas' GitHub stats](https://github-readme-stats.vercel.app/api?username=CleopasMMuchiri&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CleopasMMuchiri&layout=compact&theme=tokyonight)
 
----
+<table>
+  <tr>
+    <td><img src="https://github-stats-extended.vercel.app/api?username=CleopasMMuchiri&rank_icon=github&show_icons=true&include_all_commits=true&theme=light_github" /></td>
+    <td><img src="https://github-stats-extended.vercel.app/api/top-langs?username=CleopasMMuchiri&layout=donut&langs_count=4&theme=light_github" /></td>
+  </tr>
+</table>
+
+
+## 📫 How to Reach Me
+
 
 💼 I am actively seeking Entry-Level Full-Stack Developer roles. If you are looking for a dedicated engineer who will know your project inside and out, let's connect!
 
-## 📫 How to Reach Me
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cleopasmmuchiri@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cleopas-mugane-nairobi)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CleopasMMuchiri)
